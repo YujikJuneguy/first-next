@@ -2,9 +2,6 @@ import { NavLinks } from "@/MockData/Navigation";
 import Link from "next/link";
 import React from "react";
 
-
-
-
 const Navbar = () => {
   return (
     <div className="bg-stone-950 py-7 px-5 text-white flex justify-between items-center">
